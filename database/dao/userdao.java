@@ -22,7 +22,7 @@ try {
 	stmt.executeUpdate();
  }catch(Exception e) {
 	 e.printStackTrace();
-	 result="Data i entered";
+	 result="Data is not entered";
 
  }
 	return result;
