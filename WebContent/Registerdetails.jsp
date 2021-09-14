@@ -85,7 +85,7 @@ color:#000000;
 <input type="submit" value="Regiter">
 <a href="Register.jsp">
 </form>
-<a href="Login.jsp">/a>
+<a href="Login.jsp">Have an account</a>
 </div>
 </body>
 </html>
