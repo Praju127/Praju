@@ -9,7 +9,7 @@
 body{
 margin: 0;
 padding: 0;
-background: red;
+background: url(7.jpg);
 background-size: cover;
 font-family: sans-serif;
 }
